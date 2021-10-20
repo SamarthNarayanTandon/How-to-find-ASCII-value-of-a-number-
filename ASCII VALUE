@@ -1,0 +1,10 @@
+#include<stdio.h>
+// ASCII value of a number.
+main()
+{
+char c;
+c='2';// ' ' is must to declare 2 as a character and to find its ASCII value.
+printf("%d",c);
+return 0;
+
+}
